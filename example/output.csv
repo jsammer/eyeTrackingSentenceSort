@@ -1,0 +1,19 @@
+Item,Subject,List,Anaphor,Antecedent,Emphasis,Sentence2,Sentence1,Word_Number,Word,DV,Count
+13,subj2,2,Name,Subject,Plain,"During the discussion, Joy agreed with all proposed changes.",Joy met with Mike to review a project proposal.,1,Joy,250,1
+13,subj2,2,Name,Subject,Plain,"During the discussion, Joy agreed with all proposed changes.",Joy met with Mike to review a project proposal.,2,met,363,2
+13,subj2,2,Name,Subject,Plain,"During the discussion, Joy agreed with all proposed changes.",Joy met with Mike to review a project proposal.,3,with,219,3
+13,subj2,2,Name,Subject,Plain,"During the discussion, Joy agreed with all proposed changes.",Joy met with Mike to review a project proposal.,4,Mike,379,4
+13,subj2,2,Name,Subject,Plain,"During the discussion, Joy agreed with all proposed changes.",Joy met with Mike to review a project proposal.,5,to,.,5
+13,subj2,2,Name,Subject,Plain,"During the discussion, Joy agreed with all proposed changes.",Joy met with Mike to review a project proposal.,6,review,.,6
+13,subj2,2,Name,Subject,Plain,"During the discussion, Joy agreed with all proposed changes.",Joy met with Mike to review a project proposal.,7,a,255,7
+13,subj2,2,Name,Subject,Plain,"During the discussion, Joy agreed with all proposed changes.",Joy met with Mike to review a project proposal.,8,project,277,8
+13,subj2,2,Name,Subject,Plain,"During the discussion, Joy agreed with all proposed changes.",Joy met with Mike to review a project proposal.,9,proposal.,168,9
+13,subj2,2,Name,Subject,Plain,"During the discussion, Joy agreed with all proposed changes.",Joy met with Mike to review a project proposal.,1,During,201,10
+13,subj2,2,Name,Subject,Plain,"During the discussion, Joy agreed with all proposed changes.",Joy met with Mike to review a project proposal.,2,the,180,11
+13,subj2,2,Name,Subject,Plain,"During the discussion, Joy agreed with all proposed changes.",Joy met with Mike to review a project proposal.,3,"discussion,",216,12
+13,subj2,2,Name,Subject,Plain,"During the discussion, Joy agreed with all proposed changes.",Joy met with Mike to review a project proposal.,4,Joy,329,13
+13,subj2,2,Name,Subject,Plain,"During the discussion, Joy agreed with all proposed changes.",Joy met with Mike to review a project proposal.,5,agreed,.,14
+13,subj2,2,Name,Subject,Plain,"During the discussion, Joy agreed with all proposed changes.",Joy met with Mike to review a project proposal.,6,with,464,15
+13,subj2,2,Name,Subject,Plain,"During the discussion, Joy agreed with all proposed changes.",Joy met with Mike to review a project proposal.,7,all,.,16
+13,subj2,2,Name,Subject,Plain,"During the discussion, Joy agreed with all proposed changes.",Joy met with Mike to review a project proposal.,8,proposed,823,17
+13,subj2,2,Name,Subject,Plain,"During the discussion, Joy agreed with all proposed changes.",Joy met with Mike to review a project proposal.,9,changes.,395,18
