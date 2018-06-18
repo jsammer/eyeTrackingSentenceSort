@@ -10,8 +10,7 @@ f = open('dataset.csv')
 # Holds file data
 data = []
 # Reads file input and puts into list array
-for l in  csv.reader(f, quotechar='"', delimiter=',',
-                     quoting=csv.QUOTE_ALL, skipinitialspace=True):
+for l in  csv.reader(f, quotechar='"', delimiter=',', quoting=csv.QUOTE_ALL, skipinitialspace=True):
     data.append(l)
 # Holds data
 outputData = []
@@ -23,9 +22,7 @@ positionSentence1 = "" # "Sentence1"
 positionSentence2 = "" # "Sentence2"
 postionCount = len(data[0]) # "Count"
 # Gets positions of each required column
-print (data[0])
 for i, cell in enumerate(data[0]):
-    print(cell)
     if cell == u"Subject" or cell == u"ï»¿Subject":
         positionSubject = i
     if cell == u"Item" or cell == u"ï»¿Item":
