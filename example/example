@@ -1,0 +1,14 @@
+Steps to run sentenceSortCSV.py:
+convert your data file into a .csv file format.
+rename file to dataset.csv
+place dataset.csv and sentenceSortCSV.py in the same folder.
+run the sentenceSortCSV.py script.
+look for the output.csv file in the same folder location.
+
+
+Considerations:
+the dataset requires the following columns: Subject, Item, Sentence1, Sentence2, and Word.
+the column order doesn't matter.
+all extra column data will be unaffected, and carried thru to the output.
+Subject and Item should be unique for each sentence pair.
+the starting state of each sentence pair should be based on the word position. (eg. word 1, word 1, word 2, word 2,...)
